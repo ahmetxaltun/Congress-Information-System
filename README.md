@@ -12,7 +12,7 @@
   <a href="#features">Key Features</a> •
   <a href="#languages-used">Languages Used</a> •
   <a href="#download">Download</a> •
-  <a href="#contact">Credits</a>
+  <a href="#contact">Contact</a>
 </p>
 
 <p align="center">
